@@ -85,6 +85,8 @@
             echo "Failed: " . $e;
         }
     }
+
+	phpinfo();
  ?>
  </body>
  </html>
