@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
  <head>
  <Title>Registration Form</Title>
@@ -88,3 +89,9 @@
  ?>
  </body>
  </html>
+=======
+<?php
+	phpinfo();
+
+?>
+>>>>>>> 02d4fc117cb1d557892587724f66334fa4dc23a4
