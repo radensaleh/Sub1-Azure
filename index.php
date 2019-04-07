@@ -29,7 +29,7 @@
 
    $host = "db-server.database.windows.net";
    $user = "db.admin";
-   $pass = "me.radensaleh";
+   $pass = "me.radensaleh1";
    $db = "db_sub01";
 
     try {
@@ -86,7 +86,6 @@
         }
     }
 
-	phpinfo();
  ?>
  </body>
  </html>
